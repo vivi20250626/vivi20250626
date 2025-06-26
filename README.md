@@ -64,4 +64,4 @@ Telegram频道传送门
 社会影响
 黑料大事记以清晰时间线呈现娱乐圈与网红圈的重大事件全貌，从最初爆料到舆论发酵与最终落点，详实记录每一次话题风暴，是吃瓜群众回顾历史事件、理解八卦演化逻辑的重要信息平台。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/vivi20250626/vivi20250626）</span>
